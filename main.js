@@ -1,7 +1,7 @@
 // Thay thế bằng API key của bạn
-const API_KEY = 'YOUR_API_KEY';
+const API_KEY = 'AIzaSyDsUflr7kTuKtWacS_P3jVvGn2mCxqkri4';
 // Thay thế bằng ID của Google Sheet của bạn
-const SHEET_ID = 'YOUR_SHEET_ID';
+const SHEET_ID = '19_mjN2Uv0Pm6-vvrq9C7brw3VvnJJODIkNo3eeLZOuY';
 
 function initClient() {
     gapi.client.init({
